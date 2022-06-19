@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/app-note-sederhana/static/css/main.ca505c0e.css",
+    "main.js": "/app-note-sederhana/static/js/main.16a30ecc.js",
+    "static/js/787.9243050f.chunk.js": "/app-note-sederhana/static/js/787.9243050f.chunk.js",
+    "index.html": "/app-note-sederhana/index.html",
+    "main.ca505c0e.css.map": "/app-note-sederhana/static/css/main.ca505c0e.css.map",
+    "main.16a30ecc.js.map": "/app-note-sederhana/static/js/main.16a30ecc.js.map",
+    "787.9243050f.chunk.js.map": "/app-note-sederhana/static/js/787.9243050f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca505c0e.css",
+    "static/js/main.16a30ecc.js"
+  ]
+}
